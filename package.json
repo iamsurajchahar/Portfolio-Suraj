@@ -28,7 +28,8 @@
     "react-timer-hook": "^3.0.5",
     "serve": "^14.0.1",
     "systeminformation": "^5.12.5",
-    "tailwind-scrollbar-hide": "^1.1.7"
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "url-encode-decode": "^1.0.0"
   },
   "devDependencies": {
     "@types/leaflet": "^1.7.11",
