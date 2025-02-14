@@ -29,23 +29,12 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header ">
               <span className="text-gray-400 ">
-                Hello! My name is Suraj Singh, and I am a passionate software engineer and problem solver, dedicated to
-                creating impactful codes that thrive on the internet. My journey in computer science began in 2021 when
-                I delved into the world of Web Development using MERN stack. Little did I know that programming skills
-                would become essential in pursuing this interest, marking the start of my programming journey.
+              Hello! I’m Suraj Singh, a passionate software engineer and problem solver, dedicated to building impactful software solutions. My journey in computer science began in 2021 when I explored web development using the MERN stack, marking the start of my programming career.
+              Since then, I’ve worked across diverse industries, gaining hands-on experience in both desktop and web development. I specialize in React.js and constantly push the boundaries of modern application development. As an intern at Ethnus, I contributed to building a food delivery application, refining my skills in full-stack development.
+              In addition to my professional experience, I’ve been freelancing since September 2024, working on various projects that enhance my expertise. My passion for continuous learning and problem-solving drives me to create efficient, scalable, and user-centric solutions.
               </span>
             </div>
-            <div className="font-Header ">
-              <span className="text-gray-400 ">
-                Since pursuing my engineering degree, my career has taken me through diverse industries, allowing me to
-                refine my expertise in desktop and web development. In the realm of{" "}
-                <span className="text-AAsecondary">ReactJs</span>, I am dedicated to pushing boundaries and driving
-                advancements. With experience working alongside esteemed organizations like{" "}
-                <span className="text-AAsecondary">Ethnus</span>, where I played a key role of software Developer{" "}
-                <span className="text-AAsecondary">and built Food Delivery Application</span> , my passion for MERN stack and continuous
-                learning drives me to make a positive impact and advance technology.
-              </span>
-            </div>
+            
             {/* <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
                 Fast-forward to today, I&apos;ve had the privilege of working at
