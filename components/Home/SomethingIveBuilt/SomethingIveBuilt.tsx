@@ -75,13 +75,13 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">Colors.co </span>
                 
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Color Plattles
+                    Color Palettes
                   </span>
                 
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right ">
-                  <span className="text-AAsecondary">Coolors </span>,  is the essential tool for creating and collecting color palettes.It allows you to generate perfect matching colors in seconds. 
+                  <span className="text-AAsecondary">Colors </span>,  is the essential tool for creating and collecting color palettes.It allows you to generate perfect matching colors in seconds. 
                   Even if you are not so skilled in design!. You may use a variety of color spaces, including RGB, CMYK, LAB etc.
                 </p>
               </div>
