@@ -25,7 +25,7 @@ const IconMenu = (props: { rotate; setRotate; setShowElement; ShowElement,finish
       >
         <div className="w-6 h-0.5 rounded bg-AAsecondary"></div>
       </motion.div>
-      <div className="flex justify-end">
+      <div className="flex justify-end ">
         <motion.div
           animate={props.rotate ? { y: -10, width: "150%", rotate: -45 } : { y: 0, rotate: 0, width: "50%" }}
           transition={

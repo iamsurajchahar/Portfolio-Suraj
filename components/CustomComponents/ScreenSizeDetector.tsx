@@ -11,7 +11,7 @@ export default function ScreenSizeDetector() {
         <span className="4xl:block 3xl:block 2xl:hidden xl:hidden lg:hidden md:hidden sm:hidden hidden">4XL</span>
         <span className="3xl:hidden 2xl:block xl:hidden lg:hidden md:hidden sm:hidden hidden">3XL</span>
         <span className="2xl:hidden xl:block lg:hidden md:hidden sm:hidden hidden">2XL</span>
-        <span className="xl:hidden lg:block md:hidden sm:hidden hidden">XL</span>
+        <span className="xl:hidden lg:block md:hidden sm:hidden hidden ">XL</span>
         <span className=" xl:hidden lg:hidden md:block sm:hidden hidden ">Lg</span>
         <span className="xl:hidden lg:hidden md:hidden sm:block hidden ">md</span>
         <span className="xl:hidden lg:hidden md:hidden sm:hidden block">sm</span>
