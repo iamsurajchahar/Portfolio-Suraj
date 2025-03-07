@@ -126,7 +126,7 @@ export default function Home() {
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Suraj Singh Chahar" />
         <meta property="og:description" content={meta.description} />
-        <meta property="og:title" content={meta.title} />
+        <meta property="og:title" content="Suraj Singh Chahar - Software Engineer"/>
         <meta property="og:image" content={meta.image} />
       </Head>
 
