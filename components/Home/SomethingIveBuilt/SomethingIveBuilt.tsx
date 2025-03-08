@@ -21,7 +21,7 @@ export default function SomethingIveBuilt() {
           <span className="text-AAsecondary font-sans text-sm  sm:text-xl"> 03.</span>
           <span className=" font-bold tracking-wider text-gray-200 text-lg md:text-2xl w-44 md:w-56 opacity-85">
             {" "}
-             Here&apos;s what I&apos;ve built
+             Here&#39;s what I&#39;ve built
           </span>
         </div>
         <div className="bg-gray-400 h-[0.2px] w-full xl:w-1/3 md:w-1/2"></div>
@@ -150,7 +150,7 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
                 This project brings complex algorithms to life, 
-                allowing you to see how they work step-by-step. Whether you&apos;re learning about <span className="text-AAsecondary">sorting,</span>{" "}
+                allowing you to see how they work step-by-step. Whether you&#39;re learning about <span className="text-AAsecondary">sorting,</span>{" "}
                   <span className="text-AAsecondary">searching</span> and{" "}
                   <span className="text-AAsecondary"> or graph traversal</span>.This visualizer provides an intuitive and 
                   engaging way to explore and understand these fundamental concepts. 
@@ -582,7 +582,7 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
                 Effortlessly explore and analyze JSON data with JSON Tree, a powerful visualization tool 
-                designed for clarity and efficiency. Whether you're a developer, data analyst, or API enthusiast, 
+                designed for clarity and efficiency. Whether you&#39;re a developer, data analyst, or API enthusiast, 
                 JSON Tree simplifies data representation in both graph 📈 and tree 🌲 formats, 
                 making it easier to navigate complex structures.
                 </p>
