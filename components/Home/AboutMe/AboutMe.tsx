@@ -34,21 +34,7 @@ export default function AboutMe(props) {
               In addition to my professional experience, I’ve been freelancing since September 2024, working on various projects that enhance my expertise. My passion for continuous learning and problem-solving drives me to create efficient, scalable, and user-centric solutions.
               </span>
             </div>
-            
-            {/* <div className="font-Header tracking-wide">
-              <span className="text-gray-400  ">
-                Fast-forward to today, I&apos;ve had the privilege of working at
-                <span className="text-AAsecondary"> a huge manufacturing company</span>,
-                <span className="text-AAsecondary"> a start-up</span>,{" "}
-                <span className="text-AAsecondary">export-import companies</span>, also
-                <span className="text-AAsecondary"> freelancing</span> and recently as Lead for the{" "}
-                <span className="text-AAsecondary">Google Developer Student club</span>. Experienced in Desktop & Web
-                Development, lately with Arduino Development. My main focus these days is creating and testing{" "}
-                <span className="text-AAsecondary">Smart Contracts</span> with Hardhat.
-              </span>
-            </div> */}
-
-            <div className="font-Header tracking-wide">
+                   <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
                 Here are a few technologies I&apos;ve been working with recently :
               </span>

@@ -35,8 +35,7 @@ export default function Home() {
     process.env.NEXT_PUBLIC_BLACKLIST_COUNTRIES === "" ? true : false
   );
 
-  // this userEffect will be called to get the user location, so we can check if he is from the blackList,
-  // this will only run if NEXT_PUBLIC_BLACKLIST_COUNTRIES is not empty
+
   useEffect(() => {
     if (!IsBlackListEmpty) {
       const fetchData = async () => {
@@ -109,7 +108,7 @@ export default function Home() {
   console.log("website is rendering...");
   const meta = {
     title: "Suraj Singh Chahar - Software Engineer",
-    description: `I've been working on Software development for 3 years straight. Get in touch with me to know more.`,
+    description: `I've been working on Software development for 2 years straight. Get in touch with me to know more.`,
     image: "/titofCercle.png",
     type: "website",
   };

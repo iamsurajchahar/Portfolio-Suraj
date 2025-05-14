@@ -13,10 +13,8 @@ const Startup = (props) => {
       WidthBy2 = window.innerWidth / 2 -28;
       HeightBy2 = window.innerHeight / 2-40;
     }
-
     console.log("width by 2: ", WidthBy2);
   }
-
   return (
 
   <motion.div 

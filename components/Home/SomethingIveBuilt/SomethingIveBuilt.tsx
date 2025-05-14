@@ -575,16 +575,18 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">Recent Project</span>
                 <a href="https://github.com/iamsurajchahar/Time-series-data-visualizer" target={"_blank"} rel="noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                  A Smarter Way to Visualize JSON Data 
+                  Time Series Data Visualizer 
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                Effortlessly explore and analyze JSON data with JSON Tree, a powerful visualization tool 
-                designed for clarity and efficiency. Whether you&#39;re a developer, data analyst, or API enthusiast, 
-                JSON Tree simplifies data representation in both graph 📈 and tree 🌲 formats, 
-                making it easier to navigate complex structures.
+                Time Series Data Visualizer is a web-based tool designed to simplify the exploration and analysis of time series datasets. 
+                The application allows users to upload CSV files and interactively visualize trends, patterns, and anomalies over time using dynamic charts. 
+                Built with React.js and Chart.js, the visualizer supports features like zooming, filtering by date ranges, and 
+                toggling multiple data series for comparative analysis. It’s especially useful for data analysts and engineers who need quick insights without complex tooling.
+
+
                 </p>
               </div>
               <ul
